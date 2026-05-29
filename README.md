@@ -7,4 +7,8 @@ se arreglo css y las imagenes del proyecto.
 
 #commit3
 se modifico la barra con un fixed top para que se desplazara junto el scroll se modifico el boton de ver ahora te manda 
+<<<<<<< HEAD
 directo a las peliculas.
+=======
+directo a las peliculas.
+>>>>>>> 329ee862e3d8c7d5be730764ffe5b6f9e6c4be9d
