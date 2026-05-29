@@ -8,3 +8,5 @@ se arreglo css y las imagenes del proyecto.
 #commit3
 se modifico la barra con un fixed top para que se desplazara junto el scroll se modifico el boton de ver ahora te manda 
 
+#commit4 
+se pulieron detalles y se agrego un boton de agregar a mi lista el cual es funcional.
