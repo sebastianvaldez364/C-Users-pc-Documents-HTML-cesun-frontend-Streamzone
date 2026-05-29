@@ -1,0 +1,18 @@
+body {
+    background-color: #141414;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
