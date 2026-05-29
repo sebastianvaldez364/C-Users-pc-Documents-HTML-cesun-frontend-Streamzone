@@ -9,10 +9,14 @@ header {
     align-items: center;
 }
 
-.card {
-    transition: transform 0.3s;
+.card{
+    transition: transform 0.3s ease;
 }
 
-.card:hover {
+.card:hover{
     transform: scale(1.05);
+}
+
+body{
+    padding-top: 70px;
 }
